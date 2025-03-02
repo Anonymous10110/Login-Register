@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "70017366922",
+    "project_id": "dictojtapp",
+    "storage_bucket": "dictojtapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70017366922:android:82f3e335966d5836cca673",
+        "android_client_info": {
+          "package_name": "com.example.dictojtdict"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZtW41F2AnqeICh-CrX14QJ8uIqxTDK6w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70017366922:android:826fabc679e46269cca673",
+        "android_client_info": {
+          "package_name": "com.example.dictojtt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZtW41F2AnqeICh-CrX14QJ8uIqxTDK6w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
